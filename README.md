@@ -14,7 +14,7 @@ I'm a MERN full-stack software developer. I enjoy both frontend and backend work
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON </p>
+Javascript / React / Bootstrap / NodeJs / PHP / MongoDB / Express </p>
 
 
 ### Socials
